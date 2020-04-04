@@ -1,0 +1,7 @@
+.Carrito {
+text-align: center;
+color: rgb(117, 114, 114);
+    position: relative;
+    background-color: rgba(109, 103, 167, 0.2);
+        width: 400px;
+}
